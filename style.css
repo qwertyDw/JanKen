@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: rgb(129, 122, 122);
+}
+.game{
+    background-color: #fff;
+    width: 400px;
+    padding: 20px;
+}
+.game img{
+    width: 130px;
+    cursor: pointer;
+}
+.game .restart{
+    cursor:pointer;
+    border: #000 solid 3px;
+    width: 60px;
+}
